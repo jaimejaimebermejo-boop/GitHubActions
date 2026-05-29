@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "jaimejaimebermejo-boop/GitHubActions",
+  "pipelineDirectory": "GitHubActions",
+  "workspaceDirectory": "GitHubActions\\GitHubActions",
+  "repositories": {
+    "jaimejaimebermejo-boop/GitHubActions": {
+      "repositoryPath": "GitHubActions\\GitHubActions",
+      "lastRunOn": "05/29/2026 13:23:24 +02:00"
+    }
+  },
+  "lastRunOn": "05/29/2026 13:23:24 +02:00"
+}
