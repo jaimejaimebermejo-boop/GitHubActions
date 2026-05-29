@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 21,
+  "agentName": "DESKTOP-7DNIUOH",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus7.actions.githubusercontent.com/zYrWeXOuYQ38Z0VcDn003RGy5rpHenn9nL0gBE2hH2KcY2mxqw/",
+  "gitHubUrl": "https://github.com/jaimejaimebermejo-boop/GitHubActions",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
